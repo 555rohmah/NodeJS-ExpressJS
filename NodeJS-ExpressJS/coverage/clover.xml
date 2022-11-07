@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1667548876665" clover="3.2.0">
+  <project timestamp="1667548876665" name="All files">
+    <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0" elements="7" coveredelements="0" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="hello.js" path="C:\xampp\htdocs\NodeJS-ExpressJS\NodeJS-ExpressJS\src\hello.js">
+      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
